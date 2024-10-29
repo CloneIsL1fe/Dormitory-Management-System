@@ -1,7 +1,9 @@
 # Dormitory-Management-System
-Group 7
-
+This is Dormitory Management System built in Java, phpMyAdmin, and MySQL. The app has a login system for both tenants and owner with different view layout. 
+# Feature
 - Register
 - Login
 - Dashboard
-- etc
+- Room Allocation
+- Payment Tracker
+- Information Holder
